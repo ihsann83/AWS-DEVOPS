@@ -3,7 +3,7 @@ AWS Lambda & API Gateway
 
 Session-2
 
-Instructor: Callahan
+Instructor: Callahan/Kumbwi
 
 Session starts at 3pm EST
 
