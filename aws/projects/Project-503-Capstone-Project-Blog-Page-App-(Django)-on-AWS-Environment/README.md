@@ -254,35 +254,35 @@ clarusway_blog_proj (folder)
 
 - Step 3: Create RDS
 
-- Step 4: Create S3 Buckets and set one of these as static website.
+- Step 4: Create two S3 Buckets and set one of these as static website.
 
 - Step 5: Download or clone project definition from `Clarusway` repo on Github 
 
-- Step 6: Create project folder for local public repo on your pc 
+- Step 6: Prepare your Github repository 
 
 - Step 7: Prepare a userdata to be utilized in Launch Template
 
 - Step 8: Write RDS, S3 in settings file given by Clarusway Fullstack Developer team  
 
-- Step 9: Push your application into your own public repo on Github
+- Step 9: Create NAT Instance in Public Subnet
 
-- Step 10: Create Launch Template
+- Step 10: Create Launch Template and IAM role for it
 
-- Step 11: Create Autoscaling Group with Launch Template 
+- Step 11: Create certification for secure connection
 
 - Step 12: Create ALB and Target Group
 
 - Step 13: Create Autoscaling Group with Launch Template
 
-- Step 11: Create Cloudfront in front of ALB
+- Step 14: Create Cloudfront in front of ALB
 
-- Step 12: Create Route 53 with Failover settings
+- Step 15: Create Route 53 with Failover settings
 
-- Step 13: Create DynamoDB Table
+- Step 16: Create DynamoDB Table
 
-- Step 14: Create Lambda function 
+- Step 17-18: Create Lambda function 
 
-- Step 15: Create S3 Event and set it as trigger for Lambda Function
+- Step 17-18: Create S3 Event and set it as trigger for Lambda Function
 
 ## Notes
 
