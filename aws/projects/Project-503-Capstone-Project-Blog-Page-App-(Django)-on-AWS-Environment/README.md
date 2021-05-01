@@ -181,7 +181,7 @@ clarusway_blog_proj (folder)
 
 ## Expected Outcome
 
-![Phonebook App Search Page](./search-snapshot.png)
+![Phonebook App Search Page](./outcome.png)
 
 ### At the end of the project, following topics are to be covered;
 
