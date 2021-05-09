@@ -4,8 +4,6 @@ Hi DevOps Team
 
 - Movie and picture files are kept on S3 as object. You should create an S3 bucket and write name of it on "/src/cblog/settings.py" file as AWS_STORAGE_BUCKET_NAME variable. In addition, you must assign region of S3 as AWS_S3_REGION_NAME variable. 
 
-- Please write you Database password to the /src/.env file as PASSWORD variable.
-
 - Users credentials and blog contents are going to be kept on RDS database. To connect ECs to RDS, following variables must be assigned on "/src/cblog/settings.py" file after you create RDS;
     a. Database name - "NAME" variable 
     b. Database endpoint - "HOST" variables
